@@ -30,7 +30,7 @@ nav {
   outline: none;
   display: inline-block;
   padding: 10px;
-  margin: 10px;
+  margin: 20px;
   border-radius: 3px;
   color: rebeccapurple;
   background-color: #ddd;
@@ -61,7 +61,7 @@ li {
   border-radius: 5px;
   width: 50%;
   margin: 15px auto;
-  max-width: 800px;
+  max-width: 400px;
   background-color: rgb(253, 189, 71);
   text-align: center;
 }
