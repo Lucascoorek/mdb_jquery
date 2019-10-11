@@ -1,6 +1,6 @@
 # TODO APP
 
-This app was mede using jQuery & Webpack
+This app was made using jQuery & Webpack
 
 ## Installation
 
